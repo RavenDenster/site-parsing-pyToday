@@ -1,0 +1,128 @@
+{
+    "538225": {
+        "article_date_timestamp": 1684249200.0,
+        "atricle_title": "Облачные сервисы Microsoft «брутфорсят» запароленные архивы пользователей для принудительного антивирусного сканирования",
+        "article_url": "https://www.securitylab.ru/news/538225.php",
+        "article_desc": "Стоит ли простым пользователям переживать за сохранность своих файлов, загруженных в облако?"
+    },
+    "538224": {
+        "article_date_timestamp": 1684247520.0,
+        "atricle_title": "Positive Technologies учредила премию Positive Awards для экспертов по кибербезопасности",
+        "article_url": "https://www.securitylab.ru/news/538224.php",
+        "article_desc": "Церемония награждения состоится 20 мая на киберфестивале Positive Hack Days 12."
+    },
+    "538222": {
+        "article_date_timestamp": 1684246800.0,
+        "atricle_title": "Почти половина всего трафика в интернете в 2022 году исходила от ботов",
+        "article_url": "https://www.securitylab.ru/news/538222.php",
+        "article_desc": "Трафик людей при этом упал до исторического минимума."
+    },
+    "538220": {
+        "article_date_timestamp": 1684243167.0,
+        "atricle_title": "ЕС хочет запретить американским компаниям предоставлять доступ к генеративным ИИ-моделям",
+        "article_url": "https://www.securitylab.ru/news/538220.php",
+        "article_desc": "Правила Евросоюза для ИИ могут серьезно затруднить работу американских компаний и разработчиков."
+    },
+    "538243": {
+        "article_date_timestamp": 1684320366.0,
+        "atricle_title": "Глава OpenAI будет платить криптовалюту каждому пользователю только за то, что он человек",
+        "article_url": "https://www.securitylab.ru/news/538243.php",
+        "article_desc": "Участники нового проекта будут получать пассивный доход как компенсацию за потерю работы из-за ИИ."
+    },
+    "538242": {
+        "article_date_timestamp": 1684320300.0,
+        "atricle_title": "Группировка SideWinder искусно маскируется под правительственные учреждения Пакистана и Китая в своих последних атаках",
+        "article_url": "https://www.securitylab.ru/news/538242.php",
+        "article_desc": "55 фальшивых веб-сайтов воссозданы с высокой точностью — хакеры настроены решительно."
+    },
+    "538278": {
+        "article_date_timestamp": 1684431300.0,
+        "atricle_title": "ИИ против кибепреступников: как DarkBERT разгадывает тайны тёмной сети",
+        "article_url": "https://www.securitylab.ru/news/538278.php",
+        "article_desc": "Теперь никто не уйдёт от цифрового правосудия!"
+    },
+    "538275": {
+        "article_date_timestamp": 1684419900.0,
+        "atricle_title": "Apple покажет свою гарнитуру смешанной реальности уже на WWDC 2023",
+        "article_url": "https://www.securitylab.ru/news/538275.php",
+        "article_desc": "Что же нас ждёт: революция в мире технологий или громкий провал?"
+    },
+    "538276": {
+        "article_date_timestamp": 1684418400.0,
+        "atricle_title": "Минцифры готовит законопроект об определении КИИ",
+        "article_url": "https://www.securitylab.ru/news/538276.php",
+        "article_desc": "Проект документа уже согласовали, в ближайшее время его внесут в Госдуму."
+    },
+    "538271": {
+        "article_date_timestamp": 1684416300.0,
+        "atricle_title": "Хакеры активно используют Microsoft Teams для фишинга и распространения вредоносных программ",
+        "article_url": "https://www.securitylab.ru/news/538271.php",
+        "article_desc": "Представители Редмонда не видят проблемы в своём сервисе, призывая клиентов комплексно улучшать безопасность."
+    },
+    "538273": {
+        "article_date_timestamp": 1684416059.0,
+        "atricle_title": "Монтана - первой штат в США, запретивший TikTok",
+        "article_url": "https://www.securitylab.ru/news/538273.php",
+        "article_desc": "Запрет на использование социальной сети начнет действовать с января 2024 года."
+    },
+    "538269": {
+        "article_date_timestamp": 1684410600.0,
+        "atricle_title": "Популярность ChatGPT вызвала бурный всплеск мобильного мошенничества",
+        "article_url": "https://www.securitylab.ru/news/538269.php",
+        "article_desc": "Подлые киберпреступники открыли для себя новую золотую жилу."
+    },
+    "538267": {
+        "article_date_timestamp": 1684407810.0,
+        "atricle_title": "Павел Дуров опроверг уязвимость Telegram на macOS",
+        "article_url": "https://www.securitylab.ru/news/538267.php",
+        "article_desc": "Основатель Telegram прокомментировал сообщения об уязвимости приложения."
+    },
+    "538266": {
+        "article_date_timestamp": 1684405500.0,
+        "atricle_title": "Тревога в сообществе разработчиков VSCode! Вредоносные расширения нарушают безопасность платформы",
+        "article_url": "https://www.securitylab.ru/news/538266.php",
+        "article_desc": "46 600 скачиваний — похоже, злоумышленники успели похитить достаточно информации."
+    },
+    "538262": {
+        "article_date_timestamp": 1684399800.0,
+        "atricle_title": "Благотворительный рэкет: почему вымогатели требуют пожертвования вместо классического выкупа?",
+        "article_url": "https://www.securitylab.ru/news/538262.php",
+        "article_desc": "Начинающие хактивисты MalasLocker плотно взялись за шифрование серверов Zimbra."
+    },
+    "538260": {
+        "article_date_timestamp": 1684391400.0,
+        "atricle_title": "Google начнёт удалять неактивные аккаунты в своих сервисах",
+        "article_url": "https://www.securitylab.ru/news/538260.php",
+        "article_desc": "Обновлённые правила компании направлены на защиту от кибератак."
+    },
+    "538258": {
+        "article_date_timestamp": 1684389600.0,
+        "atricle_title": "Основатель даркнет-сайта Skynet Market признал свою вину в продаже платёжных данных на $1 млн.",
+        "article_url": "https://www.securitylab.ru/news/538258.php",
+        "article_desc": "Вместе с двумя сообщниками преступник организовал крупную цепочку поставок украденных данных в даркнете."
+    },
+    "538257": {
+        "article_date_timestamp": 1684387860.0,
+        "atricle_title": "США обвинили граждан России и Китая в краже секретных американских технологий",
+        "article_url": "https://www.securitylab.ru/news/538257.php",
+        "article_desc": "В обход запретов из США тайно вывозились технологии Apple и военное оборудование."
+    },
+    "538256": {
+        "article_date_timestamp": 1684386000.0,
+        "atricle_title": "Новый закон ЕС будет регулировать обращение криптовалюты в Европе",
+        "article_url": "https://www.securitylab.ru/news/538256.php",
+        "article_desc": "ЕС принял первую в мире нормативную базу для криптовалюты – теперь блокчейн потерял свою анонимность."
+    },
+    "538255": {
+        "article_date_timestamp": 1684339800.0,
+        "atricle_title": "Школы в американском округе Франклин закрылись из-за атаки вымогателей",
+        "article_url": "https://www.securitylab.ru/news/538255.php",
+        "article_desc": "Похоже, учебные заведения отделались малой кровью, быстро остановив хакерскую атаку"
+    },
+    "538254": {
+        "article_date_timestamp": 1684335660.0,
+        "atricle_title": "Робот-гуманоид Tesla Bot может поступить в продажу уже в этом году",
+        "article_url": "https://www.securitylab.ru/news/538254.php",
+        "article_desc": "Tesla показала значительный прогресс в разработке робота, который уже готов стать помощником человека."
+    }
+}
